@@ -24,7 +24,7 @@ Schloemer::Notation / SGP-7/X documents a semantic governance standard for runti
 At the center of the specification is the canonical Minimal Effect Sequence:
 
 ```text
-:::
+:::::modus → ::::modus → ::root → ::boot → ::init → ::semantic → ::admissibility → ::decision_logic → ::output_gate → ::on
 ```
 
 This boot and initialization sequence forms the operational core of SGP-7/X.
