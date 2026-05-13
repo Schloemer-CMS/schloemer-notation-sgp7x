@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite this publication."
+title: "Schloemer::Notation / SGP-7/X: Minimal Effect Sequence 2026"
+abstract: "Minimal effective sequence for semantic governance, runtime stabilization and controlled meaning spaces in AI systems."
+type: software
+authors:
+  - family-names: "Schloemer"
+    given-names: "Joost H."
+year: 2026
+version: "1.1.0"
+license: "CC-BY-4.0"
+repository-code: "https://zenodo.org/"
+keywords:
+  - "Schloemer::Notation"
+  - "SGP-7/X"
+  - "Semantic Governance"
+  - "Semantic Stabilization"
+  - "Runtime Governance"
+  - "AI Safety"
+  - "Admissibility"
+  - "Prompt Engineering"
+  - "Semantic Safety"
+  - "Retention"
+preferred-citation:
+  type: generic
+  title: "Schloemer::Notation / SGP-7/X: Minimal Effect Sequence 2026"
+  authors:
+    - family-names: "Schloemer"
+      given-names: "Joost H."
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  version: "1.1.0"
+  license: "CC-BY-4.0"
